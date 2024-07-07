@@ -1,12 +1,12 @@
 # customer-segmentation
-##Overview
+## Overview
 
 This project aims to segment customers based on their demographic and professional attributes using K-means clustering, a popular unsupervised machine learning algorithm. Customer segmentation helps businesses understand their customer base better and tailor marketing strategies accordingly.
 
-###Dataset
+### Dataset
 The dataset (Customer Segmentation.csv) contains information about customers, including their gender, marital status, age, education, profession, work experience, spending score, family size, and segmentation category.
 
-###Results
+### Results
 Describe the insights gained from customer segmentation using K-means clustering.
 Include visualizations or summary tables to highlight different customer segments identified.
 Conclusion
